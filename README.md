@@ -16,3 +16,6 @@ The client app connects via the Redmine API, it stores the API key and the adres
 
 So while compiling please edit the magic key on sessions.rs file. Or write your encrypt and decrypt functions.
 
+### Bugs
+
+While downloading attachment files, it does download by checking if the filename partially matches to the full attachment names and downloads by overwriting. If there are two attecments with same name, it'll overwrite the same file.
