@@ -4,9 +4,9 @@ A command line client to for redmine to access issues [tickets], download, uploa
 
 I've developed this client on my vacation as a practice to learn RUST and write API clients. The initial version was written in 2021 Summer.
 
-Due to workload, I've stopped added new features and bug-fixes.
+Due to workload, I've stopped adding new features and bug-fixes.
 
-We've been using the tools for two years actively and works fine. Would like to share with the community so it could be improved further and updated.
+We've been using the tool for two years actively and works fine. Would like to share with the community so it could be improved further and updated.
 
 Rust libraries has matured and sure some parts could be refactored using libraries.
 
